@@ -1,5 +1,6 @@
+// Classe Carro que herda de Veiculo e adiciona o atributo numeroPortas
 public class Carro extends Veiculo {
-    public int numeroPortas;
+    public int numeroPortas; 
 
     public Carro() {}
 
@@ -16,4 +17,3 @@ public class Carro extends Veiculo {
                ", numeroPortas=" + numeroPortas;
     }
 }
-

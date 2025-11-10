@@ -1,7 +1,8 @@
+// Classe abstrata que representa um veículo genérico
 public abstract class Veiculo {
-    public String marca;
-    public String modelo;
-    private int ano;
+    public String marca; 
+    public String modelo; 
+    private int ano; 
 
     public Veiculo() {}
 

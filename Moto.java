@@ -1,3 +1,4 @@
+// Classe Moto que herda de Veiculo e adiciona o atributo cilindrada
 public class Moto extends Veiculo {
     private int cilindrada;
 
