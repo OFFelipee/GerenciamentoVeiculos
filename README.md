@@ -20,6 +20,9 @@ O sistema permite criar veículos do tipo **Carro** e **Moto**, definindo atribu
 
 1. Abra o terminal na pasta do projeto.
 2. Compile os arquivos Java:
+3. Execute a classe principal:
 
 ```bash
 javac *.java
+
+java Main
